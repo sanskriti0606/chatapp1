@@ -11,9 +11,6 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 **Database:** Mongo DB
   
-## Demo
-
-[https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
 
 ## Run Locally
 
@@ -64,7 +61,7 @@ Start the Client
 ### Create Group Chats
 ![image](https://github.com/user-attachments/assets/14d746da-b7dc-445f-96aa-d9fc69e6f73b)
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+![image](https://github.com/user-attachments/assets/680a1070-b01c-45b8-bba0-678724d81645)
 
 
   
