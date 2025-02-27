@@ -58,8 +58,8 @@ Start the Client
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+![image](https://github.com/user-attachments/assets/614d910e-46db-466b-b695-a36362ada6a7)
+![image](https://github.com/user-attachments/assets/de35b2a2-b18b-42be-b15b-1454ae9b169b)
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
